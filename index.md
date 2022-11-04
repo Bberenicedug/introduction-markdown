@@ -6,3 +6,7 @@
 a = matrix(c(3,1,4,5,6,8), nrow = 2, ncol = 3)
 a
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
